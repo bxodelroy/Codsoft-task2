@@ -1,2 +1,2 @@
 # Codsoft-task2
-Student Grading Calculatot
+Student Grading Calculatotor
